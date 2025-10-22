@@ -1,0 +1,5 @@
+{
+  "name": "Workflow Pain Point Identifier",
+  "description": "A conversational AI app to interview colleagues and identify pain points in their workflows. Provide background context, and the AI will conduct an interview, then provide a transcript and summary.",
+  "requestFramePermissions": []
+}
